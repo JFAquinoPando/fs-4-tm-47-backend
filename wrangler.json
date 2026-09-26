@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "fs-4-tm-47-backend",
+  "main": "src/worker.js",
+  "compatibility_date": "2024-09-23",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "base_datos",
+      "database_id": "6b0d4d69-d0cf-49ec-91d7-49c12a20cf34"
+    }
+  ]
+}

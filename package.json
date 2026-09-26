@@ -7,6 +7,11 @@
     "start": "node index.js",
     "dev": "node --watch index.js",
     "seed": "node scripts/seed-database.js",
+    "worker:dev": "npx wrangler dev",
+    "worker:deploy": "npx wrangler deploy",
+    "d1:create": "npx wrangler d1 create personajes-db",
+    "d1:init": "npx wrangler d1 execute personajes-db --file=./schema.sql",
+    "d1:seed": "npx wrangler d1 execute personajes-db --file=./seed.sql",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,6 +20,10 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
+    "hono": "^4.13.9",
     "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.141.0"
   }
 }

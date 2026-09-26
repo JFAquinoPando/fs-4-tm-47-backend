@@ -1,0 +1,2839 @@
+[
+  {
+    "nombre": "Armin Arlelt",
+    "alias": "Colossal Titan",
+    "estatura": 60,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322005647",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Shiganshina District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Mikasa Ackermann",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221220718",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Shiganshina District Outskirts? → Shiganshina District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Jean Kirschtein",
+    "alias": "Horse face",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207230042",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Trost District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Conny Springer",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/37/Conny_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210211105306",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Ragako",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Levi Ackermann",
+    "alias": "Humanity's Strongest Soldier",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230309145235",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 30,
+    "vivo": true,
+    "lugarNacimiento": "Underground",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Buchwald",
+    "alias": "",
+    "estatura": 160,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0b/Buchwald_character_image.png/revision/latest/scale-to-width-down/350?cb=20210412043251",
+    "especies": [
+      "Horse"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Lima",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "",
+    "especies": [
+      "Human"
+    ],
+    "genero": "unknown",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Hange Zoë",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e4/Hange_Zo%C3%AB_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221212604",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Ambiguous[9]",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Varis",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Varis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308010615",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Sasha Braus",
+    "alias": "Potato Girl",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Sasha_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210124211650",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 20,
+    "vivo": false,
+    "lugarNacimiento": "Dauper",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Lobov",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6b/Lobov_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210201012057",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Erwin Smith",
+    "alias": "Eyebrow",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/de/Erwin_Smith_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190604212647",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Sandra",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/99/Sandra_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180153",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Gordon",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Gordon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180214",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Marlo Freudenberg",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/63/Marlo_Freudenberg_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514194208",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Tomas",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Tomas_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182612",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Dieter",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/83/Dieter_character_image.png/revision/latest/scale-to-width-down/350?cb=20190520014953",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Dirk",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/09/Dirk_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195047",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Marlene",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/42/Marlene_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195843",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Klaus",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Klaus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195513",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Harold",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/17/Harold_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014194319",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Moblit Berner",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/59/Moblit_Berner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514201929",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Keiji",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Keiji_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180822214556",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Abel",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/89/Abel_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171011075309",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Nifa",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/79/Nifa_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182304",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Rashad",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/37/Rashad_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182957",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Lauda",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/78/Lauda_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217183257",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Peer",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/68/Peer_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419045557",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Beirer",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Beirer_character_image.png/revision/latest/scale-to-width-down/350?cb=20211119023601",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Nanaba",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cb/Nanaba_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170401193517",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Gelgar",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1e/Gelgar_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217184915",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Henning",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4e/Henning_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170415163342",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Lynne",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/12/Lynne_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217185349",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Miche Zacharius",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5e/Miche_Zacharius_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180911163737",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Jurgen",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/88/Jurgen_character_image.png/revision/latest/scale-to-width-down/350?cb=20130910074058",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Ivan",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f6/Ivan_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419000256",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Charrette",
+    "alias": "",
+    "estatura": 160,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/82/Charrette_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200909023927",
+    "especies": [
+      "Horse"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Oruo Bozad",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Oruo_Bozad_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820184509",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Petra Rall",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5f/Petra_Rall_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20160327071221",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Eld Gin",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Eld_Gin_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130720231916",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Gunther Schultz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/97/Gunther_Schultz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130803135859",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Darius Baer Walbrunn",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c9/Darius_Baer_Walbrunn_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20131002200049",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Dieter Ness",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Dieter_Ness_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190518044644",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Luke Cis",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/98/Luke_Cis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820191914",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Ilse Langnar",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Ilse_Langnar_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20160912013035",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Moses",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9c/Moses_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170515112641",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Furlan Church",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/76/Furlan_Church_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200926202820",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Underground",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Flagon",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/73/Flagon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170629003439",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Isabel Magnolia",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/8f/Isabel_Magnolia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170629015437",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Underground",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Waltz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9b/Waltz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218072330",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Hitch Dreyse",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4b/Hitch_Dreyse_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220325011514",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Boris Feulner",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b8/Boris_Feulner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819002223",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Dennis Aiblinger",
+    "alias": "ja",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d1/Dennis_Aiblinger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170826040612",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Roger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3a/Roger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181122110830",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Roeg",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/86/Roeg_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223809",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Nile Dawk",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Nile_Dawk_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223822",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose [1]"
+  },
+  {
+    "nombre": "Kenny Ackermann",
+    "alias": "Kenny the Ripper",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ee/Kenny_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180906041337",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Caven",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Traute_Caven_character_image.png/revision/latest?cb=20161121205825",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Duran",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b2/Duran_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180730213708",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Gustav",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Gustav_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190714094555",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Kitz Woermann",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1d/Kitz_Woermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200630203518",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Rico Brzenska",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f7/Rico_Brzenska_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170430033417",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Carsten",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Carsten_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180925125809",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Orvud District"
+  },
+  {
+    "nombre": "Phil",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/49/Phil_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514200921",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Anka Rheinberger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/92/Anka_Rheinberger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223756",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Dot Pyxis",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Dot_Pyxis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223732",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Hannes",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/09/Hannes_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170520171257",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Ian Dietrich",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/33/Ian_Dietrich_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20161220053809",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Trost District"
+  },
+  {
+    "nombre": "Mitabi Jarnach",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Mitabi_Jarnach_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130615204653",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Trost District"
+  },
+  {
+    "nombre": "Hugo",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/22/Hugo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170825082132",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Shiganshina District"
+  },
+  {
+    "nombre": "Keith Sadies",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/68/Keith_Sadies_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322010239",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Hanna Diament",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/18/Hanna_Diament_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170627000005",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Ruth D. Kline",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e2/Ruth_D._Kline_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170926140039",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Marco Bodt",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9a/Marco_Bodt_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220308173139",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 16,
+    "vivo": false,
+    "lugarNacimiento": "Jinae",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Tom",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9d/Tom_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130828152441",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Franz Kefka",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Franz_Kefka_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170627000538",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Mina Carolina",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/9a/Mina_Carolina_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820182300",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Calaneth District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Milieus Zeremski",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/03/Milieus_Zeremski_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820190634",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Nack Tierce",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7b/Nack_Tierce_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820190821",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Thomas Wagner",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/52/Thomas_Wagner_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171215201507",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Trost District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Muller",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/M%C3%BCller_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/1000?cb=20230304072035",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Theo Magath",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/11/Theo_Magath_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227230812",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Koslow",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/08/Koslow_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201228001001",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Carlo",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1c/Carlo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210118000338",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Calvi",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b9/Calvi_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213220318",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Reiner Braun",
+    "alias": "Armored Titan, Armor, Marley's Shield",
+    "estatura": 15,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6d/Reiner_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201215085623",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 21,
+    "vivo": true,
+    "lugarNacimiento": "Liberio [2][3][4]",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Annie Leonhart",
+    "alias": "Female Titan, Female",
+    "estatura": 14,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/66/Annie_Leonhart_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310224559",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 20,
+    "vivo": true,
+    "lugarNacimiento": "Liberio",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Pieck Finger",
+    "alias": "Cart Titan, Cart, Quadruped-type, Quadrupedal-type",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/73/Pieck_Finger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210329044012",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Falco Grice",
+    "alias": "Ben, Jaw Titan, Jaw",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5a/Falco_Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310231730",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Gabi Braun",
+    "alias": "Mia",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/46/Gabi_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310232610",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Porco Galliard",
+    "alias": "Jaw Titan, Jaw, Pock",
+    "estatura": 5,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Porco_Galliard_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213215821",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Colt Grice",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/01/Colt_Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220403130406",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Udo",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Udo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227225914",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Zofia",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Zofia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227233855",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Bertholdt Hoover",
+    "alias": "Colossal Titan, Bertl",
+    "estatura": 60,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/56/Bertholdt_Hoover_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190513182108",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 16,
+    "vivo": false,
+    "lugarNacimiento": "Liberio",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Marcel Galliard",
+    "alias": "Jaw Titan, Jaw",
+    "estatura": 5,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2c/Marcel_Galliard_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201221183921",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Tom Xaver",
+    "alias": "Beast Titan",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Tom_Xaver_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322003839",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Eren Kruger",
+    "alias": "Attack Titan, The Owl",
+    "estatura": 15,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e0/Eren_Kruger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710114951",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Gross",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f8/Gross_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710181439",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Dhalis Zachary",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3e/Dhalis_Zachary_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221221357",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Historia Reiss",
+    "alias": "Christa Lenz, Goddess, True Queen of the Walls, Queen Historia",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/65/Historia_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210214220206",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Wall Sina",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Wald",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1b/Wald_character_image.png/revision/latest/scale-to-width-down/350?cb=20130828150910",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Nicholas Lovof",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4d/Nicholas_Lovof_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419164147",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Rod Reiss",
+    "alias": "Lord Reiss, King of the Walls",
+    "estatura": 120,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/48/Rod_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180903032714",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Ulklin Reiss",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/14/Ulklin_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220208141457",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Frieda's mother",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Frieda%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180826205347",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Florian Reiss",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/67/Florian_Reiss_%28Anime%29_character_image.png/revision/latest?cb=20180826212015",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 10,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Abel Reiss",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f2/Abel_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190711161341",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 12,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Dirk Reiss",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5b/Dirk_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20200424231532",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 14,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Frieda Reiss",
+    "alias": "King of the Walls, Founding Titan",
+    "estatura": 13,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/05/Frieda_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180907103107",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 18,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Uri Reiss",
+    "alias": "King of the Walls, Founding Titan",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a9/Uri_Reiss_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180923225103",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Rod and Uri's father",
+    "alias": "King of the Walls, Founding Titan",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4e/Rod_and_Uri%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180916193343",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Karl Fritz",
+    "alias": "145th King, King of the Walls, Founding Titan, cite_ref-e49_2-0, First King, King Reiss, King Fritz",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c7/Karl_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210110210300",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Fine Tybur",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Fine_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210117211151",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Alois Tybur",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Bruno Tybur",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Rico Tybur",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Lara Tybur",
+    "alias": "War Hammer Titan",
+    "estatura": 15,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Lara_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210117211125",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Willy Tybur",
+    "alias": "Lord Tybur, Kin of our savior",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5e/Willy_Tybur_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227222346",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Sina Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ef/Sina_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221516",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Rose Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/ce/Rose_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221515",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Maria Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6c/Maria_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206221501",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220206222853",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Ymir Fritz",
+    "alias": "Christa, Founding Titan, Founder Ymir",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/03/Ymir_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220123225542",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Kiyomi Azumabito",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e6/Kiyomi_Azumabito_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230310223432",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Hizuru"
+  },
+  {
+    "nombre": "Ellie",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ea/Ellie_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170713084822",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Calaneth District"
+  },
+  {
+    "nombre": "Petra's father",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Petra%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170401235220",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Calaneth District"
+  },
+  {
+    "nombre": "Stohess District Mayor",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c3/Stohess_District_Mayor_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514151051",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Roderich",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Roderich_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194245",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Jean's mother",
+    "alias": "Huma",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4a/Jean%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170415060502",
+    "especies": [
+      "Human"
+    ],
+    "genero": "unknown",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Artur Braus",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/98/Artur_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221215948",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Kaya",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f1/Kaya_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221220314",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Conny's mother",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2a/Conny%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218092824",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Ragako"
+  },
+  {
+    "nombre": "Carly Stratmann",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/32/Carly_Stratmann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180412031433",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 20,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Elliot G. Stratmann",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/55/Elliot_G._Stratmann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171208075330",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Lou",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/75/Lou_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131401",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Ralph",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/34/Ralph_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115123227",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Djel Sannes",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/13/Djel_Sannes_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180722202626",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "King Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b6/King_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194646",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Aurille",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Aurille_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194114",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Gerald",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/39/Gerald_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180813082916",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Deltoff",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b9/Deltoff_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180819194438",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Flegel Reeves",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/52/Flegel_Reeves_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180820213600",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Trost District"
+  },
+  {
+    "nombre": "Roy",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/87/Roy_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180812192345",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Peaure",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cd/Peaure_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221223047",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Nicolo",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/28/Nicolo_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207224016",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Lisa Braus",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f6/Lisa_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207224959",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Marie Dawk",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose [1]"
+  },
+  {
+    "nombre": "Moses' mother",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/67/Moses%27_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170814200844",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Shiganshina District"
+  },
+  {
+    "nombre": "Yan",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/77/Yan_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514190410",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Underground",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Dimo Reeves",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/41/Dimo_Reeves_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180730020903",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Trost District"
+  },
+  {
+    "nombre": "Nick",
+    "alias": "Pastor Nick",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b4/Nick_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170416161720",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Conny's father",
+    "alias": "",
+    "estatura": 3,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/21/Conny%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180218093626",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Ragako"
+  },
+  {
+    "nombre": "Sunny Springer",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3b/Sunny_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220220224438",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Ragako",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Martin Springer",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Martin_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220220224616",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Ragako",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Wald",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bf/Wald_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131340",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Kemper Boltz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/30/Kemper_Boltz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115131857",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Stohess District"
+  },
+  {
+    "nombre": "Armin's grandfather",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cf/Armin%27s_grandfather_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170812182615",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose Wall Maria"
+  },
+  {
+    "nombre": "Alma",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0f/Alma_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180805194520",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Sina"
+  },
+  {
+    "nombre": "Grisha Jaeger",
+    "alias": "Attack Titan, Mysterious Titan, Founding Titan",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/33/Grisha_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170418234824",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 39,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Shiganshina District Liberio  (former)"
+  },
+  {
+    "nombre": "Carla Jaeger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3d/Carla_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170419134831",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Shiganshina District"
+  },
+  {
+    "nombre": "Bandits",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/91/Bandits_%28Anime%29_character_image_%28Leader%29.png/revision/latest/scale-to-width-down/350?cb=20180817201324",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Mikasa's mother",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/36/Mikasa%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20171004200544",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Mikasa's father",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Mikasa%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220115132327",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Maria"
+  },
+  {
+    "nombre": "Kuchel Ackermann",
+    "alias": "Olympia",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Kuchel_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180923201145",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Underground"
+  },
+  {
+    "nombre": "Kenny's grandpa",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d0/Kenny%27s_grandpa_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180826213649",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Mr. Smith",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/06/Mr._Smith_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180805201400",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Leonhart",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d7/Leonhart_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210110211803",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Finger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2a/Finger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063746",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Karina Braun",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/61/Karina_Braun_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201213233835",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Reiner's father",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/53/Reiner%27s_father_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201228095914",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Grisha's mother",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c4/Grisha%27s_mother_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201214005136",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Jaeger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/59/Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201214004837",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Ramzi",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/df/Ramzi_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063524",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Halil",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/7a/Halil_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230304063134",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Ymir",
+    "alias": "Freckles, Lady Ymir, Jaw Titan",
+    "estatura": 5,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/43/Ymir_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181009020525",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Female",
+    "edad": 75,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Dina Fritz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0e/Dina_Fritz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190617054955",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Comrade D",
+    "alias": "",
+    "estatura": 3,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/60/Comrade_D_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190629223254",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Talking Titan",
+    "alias": "The Titan encountered by <a href=",
+    "estatura": 6,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/8e/Talking_Titan_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170603204223",
+    "especies": [
+      "Titan (formerly human)"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Grice",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/72/Grice_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190710181115",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Fay Jaeger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f9/Fay_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190610044451",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 8,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Liberio"
+  },
+  {
+    "nombre": "Yelena",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/45/Yelena_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207232354",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Onyankopon",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a8/Onyankopon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210228223743",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Zeke Jaeger",
+    "alias": "Beast Titan, Monkey, Wonderboy, Beardo",
+    "estatura": 17,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/40/Zeke_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20221009190448",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 29,
+    "vivo": true,
+    "lugarNacimiento": "Liberio",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Greiz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/de/Greiz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308022540",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Ogweno",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/f3/Ogweno_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227221843",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Nambia",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/61/Nambia_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227221431",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Eren Jaeger",
+    "alias": "Suicidal Maniac, Titan boy, Attack Titan, Mysterious Titan, Berserk Titan, Founding Titan, Founder, Mister Kruger, Usurper, War Hammer Titan, Doomsday Titan",
+    "estatura": 15,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/a1/Eren_Jaeger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220123225500",
+    "especies": [
+      "Human",
+      "Intelligent Titan"
+    ],
+    "genero": "Male",
+    "edad": 19,
+    "vivo": true,
+    "lugarNacimiento": "Shiganshina District",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Wim",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3f/Wim_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308023322",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Holger",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/db/Holger_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308022940",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Surma",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/c4/Surma_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322003220",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": true,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Louise",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4a/Louise_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221215352",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Female",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Trost District"
+  },
+  {
+    "nombre": "Floch Forster",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3b/Floch_Forster_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221222051",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Samuel Linke-Jackson",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/1c/Samuel_Linke-Jackson_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220313214606",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "Snate",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Daz",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/35/Daz_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220313214351",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Wall Rose"
+  },
+  {
+    "nombre": "Oliver",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/57/Oliver_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20220227213026",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Sawney",
+    "alias": "",
+    "estatura": 4,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4c/Sawney_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820185617",
+    "especies": [
+      "Titan"
+    ],
+    "genero": "unknown",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Beane",
+    "alias": "",
+    "estatura": 7,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/69/Beane_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20130820185404",
+    "especies": [
+      "Titan"
+    ],
+    "genero": "unknown",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Helos",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/84/Helos_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20201227205802",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "Marley"
+  },
+  {
+    "nombre": "Devil of All Earth",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2c/Devil_of_All_Earth_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190620181709",
+    "especies": [
+      "Unknown"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  },
+  {
+    "nombre": "Mirror Man",
+    "alias": "",
+    "estatura": 0,
+    "imagen": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/eb/Mirror_Man_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180812010229",
+    "especies": [
+      "Human"
+    ],
+    "genero": "Male",
+    "edad": 0,
+    "vivo": false,
+    "lugarNacimiento": "unknown",
+    "residencia": "unknown"
+  }
+]

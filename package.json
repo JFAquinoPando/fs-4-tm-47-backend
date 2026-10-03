@@ -25,5 +25,10 @@
   },
   "devDependencies": {
     "wrangler": "^4.141.0"
+  },
+  "allowScripts": {
+    "esbuild": true,
+    "sqlite3": true,
+    "workerd": true
   }
 }

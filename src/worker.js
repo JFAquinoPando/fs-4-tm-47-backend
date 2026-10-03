@@ -30,6 +30,4 @@ app.notFound((c) => {
   return c.json({ error: 'Ruta no encontrada' }, 404);
 });
 
-module.exports = {
-  fetch: app.fetch
-};
+export default app;
